@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=welcome&fontColor=white)
-
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&text=✨welcome&fontColor=ffffff&fontAlign=75)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=park-intae&show_icons=true&theme=radical)](https://github.com/park-intae)
 
