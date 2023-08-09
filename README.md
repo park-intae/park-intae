@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-intae&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-intae&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-intae&layout=pie)](https://github.com/park-intae/github-readme-stats)
 
 ## complete
 * [KwangWoon univ management](https://www.kw.ac.kr/ko/univ/depart_intro.jsp?hpage=college_007_01)
