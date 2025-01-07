@@ -9,6 +9,11 @@
 * goorm frontend
 * [multicampus backend](https://lc.multicampus.com/kdt-developer/#/course/CRS20230728201496442) learning...
 
-## thech
+## 익힌 기술들
 html css javascript java React TypeScript
+
+## 사용해본 프레임워크/툴
+BootStrap OpenWeatherAPI GoogleOAuth
   
+## 공부 예정...
+node.js(진행중) vue.js next.js React-native
