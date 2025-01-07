@@ -10,5 +10,5 @@
 * [multicampus backend](https://lc.multicampus.com/kdt-developer/#/course/CRS20230728201496442) learning...
 
 ## thech
-html css javascript java
+html css javascript java React TypeScript
   
