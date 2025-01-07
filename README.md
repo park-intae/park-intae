@@ -7,7 +7,8 @@
 ## complete
 * [KwangWoon univ management](https://www.kw.ac.kr/ko/univ/depart_intro.jsp?hpage=college_007_01)
 * goorm frontend
-* [multicampus backend](https://lc.multicampus.com/kdt-developer/#/course/CRS20230728201496442) learning...
+* [multicampus backend](https://lc.multicampus.com/kdt-developer/#/course/CRS20230728201496442)
+* CodingApple TypeScript, JavaScript
 
 ## 익힌 기술들
 html css javascript java React TypeScript
