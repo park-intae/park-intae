@@ -11,10 +11,11 @@
 * CodingApple TypeScript, JavaScript
 
 ## 익힌 기술들
-html css javascript java React TypeScript
+html css javascript java TypeScript
 
 ## 사용해본 프레임워크/툴
-BootStrap OpenWeatherAPI GoogleOAuth
+React BootStrap
+OpenWeatherAPI GoogleOAuth
   
 ## 공부 예정...
 node.js vue.js(진행중) next.js React-native
