@@ -17,4 +17,4 @@ html css javascript java React TypeScript
 BootStrap OpenWeatherAPI GoogleOAuth
   
 ## 공부 예정...
-node.js(진행중) vue.js next.js React-native
+node.js vue.js(진행중) next.js React-native
